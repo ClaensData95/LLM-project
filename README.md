@@ -5,9 +5,7 @@ In this project I created a sentiment Analysis classifier with VADER and Hugging
 
 
 ## Dataset
-The dataset that we will use is taken from Kaggle website and can be downloaded here:
-
-Amazon Musical Instruments Reviews
+The dataset is an excel file from kaggle,it contains reviews of customers about earphones,here is a link to the dataset:https://www.kaggle.com/datasets/shitalkat/amazonearphonesreviews.
 
 
 ## Pre-trained Model
